@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BlessCoffee</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="forgot_password_msg">Enter your registered email to reset</string>
+    <string name="about_bless_coffee">BlessCoffee is an upcoming coffee supplier at the heart
+        of the capital city offering high quality products. We accept cash payments as well
+        as paynow transactions. Order with this mobile and enjoy the benefits of technology as our scooter brings
+        your order in 10mins</string>
+    <string name="about_developer">BlessCoffee was developed by Blessing Chiwaura a freelance mobile
+                                   app and web app developer. For customized apps contact Blessing on:</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+</resources>
